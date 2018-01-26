@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HangOnAMinute</string>
+
+    <string name="menu_button01">ペイント</string>
+
+    <string name="paint_button02">もどる</string>
+    <string name="paint_button01">けす</string>
+
+</resources>
